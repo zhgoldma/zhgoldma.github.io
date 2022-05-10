@@ -1,0 +1,50 @@
+body {
+  margin: 0px;
+}
+
+article {
+  margin-left: 20%;
+  width: 60%;
+  font-family: 'Akshar', cursive;
+}
+.subhead {
+font-family: 'Akshar', serif;
+font-size: 20px;
+}
+header {}
+img {
+width: 70%;
+}
+h1 {
+  font-size: 46px;
+  font-family: 'Akshar', sans-serif;
+}
+.caption {
+  font-family: 'Akshar', sans-serif;
+  width: 50%
+font-size: 60px;
+}
+
+.story_image {
+  width: 100%;
+}
+div {
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+}
+footer {
+margin-left: 20%;
+  margin-top: 50px;
+  font-family: 'Akshar', sans-serif;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #717171;
+  text-decoration-color: #ffcb04;
+}
